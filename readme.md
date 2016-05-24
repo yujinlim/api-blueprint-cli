@@ -1,4 +1,4 @@
-# API Blueprint generator
+# API Blueprint generator [![Build Status](https://travis-ci.org/yujinlim/api-blueprint-cli.svg?branch=master)](https://travis-ci.org/yujinlim/api-blueprint-cli)
 > This is a cli that extract comment on file for [API Blueprint](https://apiblueprint.org)
 
 A common use case is to auto generate API documentation and upload to [Apiary](https://apiary.io).
